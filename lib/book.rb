@@ -17,8 +17,4 @@ class Book
     GENRES << new_genre
   end
 
-  def genre
-    @genre
-  end
-
 end
